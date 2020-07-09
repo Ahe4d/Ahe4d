@@ -2,7 +2,7 @@
 My name is Etienne, I'm a hobbyist programmer who likes working with JavaScript and web technologies!
 
 ### 🖥 Projects
-* [Blockauth](https://blockauth.aheadbl.com) - a custom authentication server for [Blockland](https://blockland.us)
+* [Blockauth](http://blockauth.aheadbl.com) - a custom authentication server for [Blockland](https://blockland.us)
 
 ### 📶 Social
 * Mastodon - [ahead@radical.town](https://radical.town/@ahead)
