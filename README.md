@@ -6,4 +6,4 @@ My name is Etienne, I'm a hobbyist programmer who likes working with JavaScript 
 
 ### 📶 Social
 * Mastodon - [ahead@radical.town](https://radical.town/@ahead)
-* Discord - [Ahead#4492](https://discord.com/users/113141460718616576)
+* Discord - [Ahead#0034](https://discord.com/users/113141460718616576)
