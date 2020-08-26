@@ -1,5 +1,5 @@
 ## 👋 Hello there! 
-My name is Etienne, I'm a hobbyist programmer who likes working with JavaScript and web technologies!
+My name is Etienne, I'm a hobbyist programmer who likes working with JavaScript and web technologies! I'm currently an undergraduate student at San Francisco State University majoring for Computer Science.
 
 ### 🖥 Projects
 * [Blockauth](http://blockauth.aheadbl.com) - a custom authentication server for [Blockland](https://blockland.us)
