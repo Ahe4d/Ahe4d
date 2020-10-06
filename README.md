@@ -5,7 +5,7 @@ My name is Etienne, I'm a hobbyist programmer who likes working with JavaScript 
 * [Blockauth](http://blockauth.aheadbl.com) - a custom authentication server for [Blockland](https://blockland.us)
 
 ### 📶 Social
-* Mastodon - [ahead@radical.town](https://radical.town/@ahead)
+* Mastodon - [ahead@mastodon.social](https://mastodon.social/@ahead)
 * Discord - [Ahead#0034](https://discord.com/users/113141460718616576)
 
 [![Ahe4d's github stats](https://github-readme-stats.vercel.app/api?username=ahe4d)](https://github.com/anuraghazra/github-readme-stats)
